@@ -25,7 +25,7 @@ class Home extends Component {
                         <Card.Text>
                             <h3>Idea Proposal</h3>
                             <ul>
-                                <li>Arcello – a decentralized gallery and marketplace for 3D digital art & content.</li>
+                                <li>Pikicha – a decentralized gallery and marketplace for 3D digital art & content.</li>
                                 <li>Essentially a Decentralized Application (DApp) to showcase, auction and trade 3D art in the form of crypto-collectibles.</li>
                             </ul>
                         </Card.Text>
@@ -77,9 +77,9 @@ class Home extends Component {
                 <Card className="home-card">
                     <Card.Body>
                         <Card.Text>
-                            <h3>Arcello's Advantages</h3>
+                            <h3>Pikicha's Advantages</h3>
                             <ul>
-                                <li>Arcello is decentralized - transparent credible payments, eliminates commission to 3rd parties.</li>
+                                <li>Pikicha is decentralized - transparent credible payments, eliminates commission to 3rd parties.</li>
                                 <li>Tamperproof records</li>
                                 <li>Guarantees privacy, scalability – Blockchain</li>
                                 <li>Popularity of NFTs – better revenue</li>
